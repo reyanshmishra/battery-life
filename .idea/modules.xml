@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BatteryLife.iml" filepath="$PROJECT_DIR$/BatteryLife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BatteryLife.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BatteryLife.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BatteryLife.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BatteryLife.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BatteryLife.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BatteryLife.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BatteryLife.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BatteryLife.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rambooster/BatteryLife.rambooster.iml" filepath="$PROJECT_DIR$/.idea/modules/rambooster/BatteryLife.rambooster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rambooster/BatteryLife.rambooster.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/rambooster/BatteryLife.rambooster.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rambooster/BatteryLife.rambooster.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rambooster/BatteryLife.rambooster.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rambooster/BatteryLife.rambooster.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/rambooster/BatteryLife.rambooster.unitTest.iml" />
+    </modules>
+  </component>
+</project>

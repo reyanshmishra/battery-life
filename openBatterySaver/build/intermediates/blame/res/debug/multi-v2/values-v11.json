@@ -1,0 +1,44 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/reyansh/AndroidStudioProjects/BatteryLife/openBatterySaver/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/reyansh/AndroidStudioProjects/BatteryLife/openBatterySaver/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "138"
+                    }
+                },
+                {
+                    "source": "/Users/reyansh/AndroidStudioProjects/BatteryLife/openBatterySaver/src/main/res/values-v11/themes.xml",
+                    "from": {
+                        "startLines": "-1,17",
+                        "startColumns": "-1,4",
+                        "startOffsets": "-1,650",
+                        "endLines": "-1,18",
+                        "endColumns": "-1,12",
+                        "endOffsets": "-1,710"
+                    },
+                    "to": {
+                        "startLines": "5,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "143,609",
+                        "endLines": "12,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "604,669"
+                    }
+                }
+            ]
+        }
+    ]
+}
